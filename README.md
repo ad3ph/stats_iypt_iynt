@@ -4,10 +4,10 @@ Workflow:
  - check ```src/config.py```, you'll need to fill in the pathes to source data files and change parameters (whether you are to process IYPT or IYNT data)
  - run ```python ./main.py```
 
-Ilya Martchenko
+Ilya Martchenko - 
 skype: ilyamartch
 
-Artem Golomolzin
+Artem Golomolzin - 
 t.me/ad3ph
 bently0709@gmail.com
 Novosibirsk, Siberia
