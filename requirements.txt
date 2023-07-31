@@ -1,0 +1,5 @@
+numpy
+pandas
+colorama
+progress
+humanfriendly
